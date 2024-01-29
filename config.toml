@@ -1,7 +1,7 @@
 baseURL               = "https://northtools.cn/"
 languageCode          = "zh-CN"
 title                 = "NorthTools"
-theme                 = "NorthTools"
+theme                 = "WebStack-Hugo"
 preserveTaxonomyNames = true
 disablePathToLower    = true
 hasCJKLanguage        = true
