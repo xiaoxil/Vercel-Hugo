@@ -1,6 +1,6 @@
-baseURL               = "https://nav.mocha.city/"
+baseURL               = "https://northtools.cn/"
 languageCode          = "zh-CN"
-title                 = "Mocha's Navigation"
+title                 = "NorthTools"
 theme                 = "WebStack-Hugo"
 preserveTaxonomyNames = true
 disablePathToLower    = true
