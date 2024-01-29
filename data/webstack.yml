@@ -11,9 +11,6 @@
     - title: Vercel
       url: https://www.vercel.com/
       logo: https://api.iowen.cn/favicon/www.vercel.com.png
-    - title: Greasyfork
-      url: https://greasyfork.org/zh-CN/
-      logo: https://greasyfork.org/vite/assets/blacklogo96-e0c2c761.png
     - title: Ping Test
       url: http://ping.pe/
       logo: https://api.iowen.cn/favicon/ping.com.png
