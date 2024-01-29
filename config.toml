@@ -9,11 +9,11 @@ publishDir            = "public"					# 站点静态文件保存目录
 
 
 [params]
-    author        = "Mocha"
-    description   = "Mocha's Navigation"
-    upload        = "https://www.northtools.cn/"  # 左侧导航栏的"网站提交"
-    about         = "https://nav.mocha.city/"	# 左侧导航栏的"关于导航"页面(./about)
-    repository    = "https://nav.mocha.city/"  
+    author        = "NorthTools"
+    description   = "NorthTools"
+    upload        = "https://northtools.cn/"  # 左侧导航栏的"网站提交"
+    about         = "https://northtools.cn/"	# 左侧导航栏的"关于导航"页面(./about)
+    repository    = "https://northtools.cn/"  
     enablePreLoad = true					# 网站完全打开前预加载动画
     textPreLoad   = "NorthTools 启动中..."				# 预加载的动画文字, 只有当enablePreLoad=true时生效
     expandSidebar = true					# 默认展开左侧边导航栏
@@ -45,4 +45,4 @@ publishDir            = "public"					# 站点静态文件保存目录
     unsafe = true
 
 [params.footer]
-    copyright = 'Copyright © 2019-2023 [Mocha](https://nav.mocha.city/)   Theme [WebStack-Hugo](https://github.com/shenweiyan/WebStack-Hugo/)<br/>'
+    copyright = 'Copyright © 2013-2024 [NorthTools](https://northtools.cn/) <br/>'
